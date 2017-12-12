@@ -1,3 +1,7 @@
-#wall .tag-1 {
+#wall .tag-1 .parent {
   display: none;
+}
+
+#tag-2, #tag-3 {
+  display: none
 }
