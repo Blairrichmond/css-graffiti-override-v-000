@@ -6,6 +6,6 @@
   display: none;
 }
 
-div#tag-2 #tag-3 {
+div[id$="2"] {
   display: none;
 }
