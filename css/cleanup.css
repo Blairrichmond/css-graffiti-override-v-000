@@ -6,6 +6,6 @@
   display: none;
 }
 
-div[id$="2"] {
+#tag-3 div[class="slick"] {
   display: none;
 }
