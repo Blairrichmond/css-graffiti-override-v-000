@@ -2,4 +2,6 @@
   display: none;
 }
 
-div#wall[id|="2"] 
+div#wall[id|="2"] {
+  display: none;
+}
